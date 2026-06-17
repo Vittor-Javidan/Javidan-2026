@@ -1,0 +1,1 @@
+All seismic sections sgy files can be found [here](https://drive.google.com/drive/u/2/folders/1jxpnZaRXtlPSEbmBs7f0G728LpciBxb4)
