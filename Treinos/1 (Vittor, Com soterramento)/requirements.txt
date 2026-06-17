@@ -1,0 +1,10 @@
+ipykernel
+pandas
+tqdm
+scipy
+segyio
+matplotlib
+scikit-learn
+opencv-python
+bruges
+segysak
